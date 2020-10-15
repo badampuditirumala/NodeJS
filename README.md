@@ -1,2 +1,2 @@
 # Nodejs
-This project contains Sample Nodejs Application.
+Test project contains Sample Nodejs Application.
